@@ -1,5 +1,5 @@
-# uea-test
-Stroyblok plugin creation for a code test
+# Stroyblok plugin test
+Stroyblok plugin creation
 
 ## Steps to run
 - Clone
