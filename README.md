@@ -1,5 +1,5 @@
-# Stroyblok plugin test
-Stroyblok plugin creation
+# Storyblok plugin test
+Storyblok plugin creation
 
 ## Steps to run
 - Clone
